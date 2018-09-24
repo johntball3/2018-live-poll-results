@@ -1,0 +1,15 @@
+---
+title: "Maine 2"
+author: "John Ball"
+date: "September 24, 2018"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+ggplot(aes(x = , color = response, shape = educ))
+```
+
